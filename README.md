@@ -1,7 +1,7 @@
 # Movies
 Power BI Dashboard
 Objective </br>
-Explore different aspects of the movie data such as popularity, rating, genre, and revenue, and create interactive reports and visualizations to showcase your findings. </br>
+Exploring different aspects of the movie data such as popularity, rating, genre, and revenue, and create interactive reports and visualizations to showcase your findings. </br>
 Insights </br>
 Movies in English received the most votes. </br>
 The two top highest rated movies are in Arabic and Telugu. </br>
